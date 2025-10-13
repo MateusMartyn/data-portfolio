@@ -8,7 +8,7 @@ Senior Data & Analytics Engineer with over 7 years of experience driving data so
 
 *   **Languages:** SQL, Python (Pandas, NumPy, Spark)
 *   **Visualization:** Power BI, Tableau, Quicksight
-*   **Cloud:** AWS, Azure, Google Cloud
+*   **Cloud Platforms:** AWS (S3, Redshift, Glue, Lambda, EMR), Azure (Data Factory, Synapse, Databricks)
 *   **Other Tools:** Excel, Git
 
 ### Projects
